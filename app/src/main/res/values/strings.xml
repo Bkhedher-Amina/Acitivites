@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Activites</string>
+    <string name="app_name">Activite</string>
+    <string name="password">com.app.activites.Password</string>
+    <string name="login">com.app.activites.Login</string>
+    <string name="name">com.app.activites.Name</string>
+    <string name="chekbox" >com.app.activites.chekbox</string>
 </resources>
