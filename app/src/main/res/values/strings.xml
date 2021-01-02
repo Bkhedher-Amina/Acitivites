@@ -1,7 +1,16 @@
 <resources>
     <string name="app_name">Activite</string>
-    <string name="password">com.app.activites.Password</string>
-    <string name="login">com.app.activites.Login</string>
-    <string name="name">com.app.activites.Name</string>
-    <string name="chekbox" >com.app.activites.chekbox</string>
+    <string name="password">com.app.activities.Password</string>
+    <string name="login">com.app.activities.Login</string>
+    <string name="name">com.app.activities.Name</string>
+    <string name="chekbox">com.app.activities.chekbox</string>
+    <string name="entrer_mot_de_passe">Entrer Mot de passe</string>
+    <string name="insciption">Insciption</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="Connexion" />
+    <string name="connexion">Connexion</string>
+    <string name="inscription">Inscription</string>
+    <string name="remember_me">remember</string>
+    <string name="email">Email</string>
+
 </resources>
